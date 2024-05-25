@@ -1,4 +1,5 @@
 **Notes on Stock Market Prediction and Model Evaluation**
+By Annaliese Tech (@AnnalieseTech)
 
 1. **Manual Prediction Rules:**
    - Manual prediction rules involve setting conditions based on technical indicators like CCI (Commodity Channel Index) or growth rates to determine when to predict stock price movements.
