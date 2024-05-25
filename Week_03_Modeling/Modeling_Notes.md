@@ -1,4 +1,5 @@
 **Notes on Stock Market Prediction and Model Evaluation**
+
 By Annaliese Tech (@AnnalieseTech)
 
 1. **Manual Prediction Rules:**
